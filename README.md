@@ -12,5 +12,5 @@
     
 ### Screentshots
 The following are screenshots for the app in this repo:
-![](https://github.com/LizzieDeng/IMU_Path_Visualisation/blob/master/Screenshots/picture1.png)
-![](https://github.com/LizzieDeng/IMU_Path_Visualisation/blob/master/Screenshots/picture2.png)
+![picture1](https://github.com/LizzieDeng/IMU_Path_Visualisation/blob/master/Screenshots/picture1.png)
+![picture2](https://github.com/LizzieDeng/IMU_Path_Visualisation/blob/master/Screenshots/picture2.png)
