@@ -1,0 +1,5 @@
+numpy=1.17.4
+dash==1.7.0
+pandas==0.25.1
+python=3.7.4
+vtk=8.2.0
